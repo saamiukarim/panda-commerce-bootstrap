@@ -1,0 +1,26 @@
+
+.panda-slide{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.categories img{
+    height: 100px;
+    
+}
+.categories{
+    border-radius: 10px;
+}
+.bags{
+    background-color:#d422d4;
+}
+.watch{
+    border: 0;
+}
+.panda-button{
+    background-color: white;
+    border: 0;
+}
+.bottom{
+    background-color: #fceae8;
+
+}
